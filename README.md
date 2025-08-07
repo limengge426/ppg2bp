@@ -1,0 +1,16 @@
+损失函数分解 (平均值):
+  - total: 3.9768
+  - mse: 208.7488
+  - trend: 0.2092
+  - cosine_trend: 0.2092
+  - corr_trend: 0.0000
+  - grad_trend: 3.6423
+
+性能指标 (平均值):
+  - MAE: 12.1037
+  - MSE: 208.7487
+  - RMSE: 13.5949
+  - R2: -0.3096
+  - Correlation: 0.7908
+  - Cosine_Similarity: 0.7908
+  - Direction_Consistency: 0.4378
